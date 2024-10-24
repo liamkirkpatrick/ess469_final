@@ -11,9 +11,9 @@ Final Project for ESS 469
 *Summary of file contents*
 
 ### Data
-1. raw/ - contains raw datafiles
-2. clean/
-3. ai_ready/
+1. raw/ - *contains raw datafiles*
+2. clean/ - *contains clean datafiles*
+3. ai_ready/ - *contains AI ready data*
 ### Notebooks
 1. download_data.ipynb - *downloads data*
 2. clean_data.ipynb - *cleans data, gets into ai_ready state*
