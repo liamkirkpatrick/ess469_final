@@ -1,10 +1,10 @@
-# ess469_final
+# ESS 469 Final Project
 Liam Kirkpatrick
 Fall Quarter 2024 (Extending into Winter due to fieldwork)
 Final Project for ESS 469
 
 ## Project Summary
-*Summary of this project goals*
+*Summary of this project's goals*
 
 I am working to interpret the water isotope record from the Denali Ice Core. Alpine ice core water isotope records are more difficult to interpret than similar records in alpine cores, which are widely used as proxies for site and moisture source temperature. However, extreme topography and seasonal weather patterns in alpine ice core sites complicate the drivers, and so the interpreation, of water isotope signals at these sites.
 
@@ -53,4 +53,4 @@ Data:
     Fields: MSLP, 500hPa Height, and SST
     Filetype: .nc (netCDF)
     Filesize: All data is approx 12 GB
-Access: Data downloaded through Copernicus Climate Data Score using the CDS online download tool at https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=download
+Access: Data downloaded through Copernicus Climate Data Store using the CDS online download tool at https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=download
