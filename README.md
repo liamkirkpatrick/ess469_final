@@ -4,7 +4,7 @@ Fall Quarter 2024 (Extending into Winter due to fieldwork)
 Final Project for ESS 469
 
 ## Project Summary
-* Summary of this project goals*
+*Summary of this project goals*
 
 I am working to interpret the water isotope record from the Denali Ice Core. Alpine ice core water isotope records are more difficult to interpret than similar records in alpine cores, which are widely used as proxies for site and moisture source temperature. However, extreme topography and seasonal weather patterns in alpine ice core sites complicate the drivers, and so the interpreation, of water isotope signals at these sites.
 
