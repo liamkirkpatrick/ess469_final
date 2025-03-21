@@ -33,10 +33,14 @@ To run the notebooks included here:
 *Summary of file contents*
 
 ### Data
+(note - these are not included in the repository due to data size issues)
 1. raw/ - *contains raw datafiles*
 2. clean/ - *contains clean datafiles*
    - This includes both reanalysis data and ice core data (the ML target).
 4. ai_ready/ - *contains AI ready data*
+5. dimensionality_reduction/ - *contains independent and principal component results*
+6. target/ - *contains target PWT and T data in csv format*
+7. my_tuner_dir/ - *contains tuning results for DL models*
 ### Notebooks - part 1 (first component of final project)
 1. Download_Data.ipynb - *Downloads data. Currently troublyshooting CDS API for ERA5 downloads*
 2. Clean_Data.ipynb - *Cleans data. This involves applying a land mask to the SST fields*
@@ -48,7 +52,10 @@ To run the notebooks included here:
 2. Model_Training_Assesment.ipynb - * Provides a more in-depth look at training a Linear Regression, Random Forest, and Huber Regression Model *
 3. Computational_Time_Analysis.ipynb - * Provides an assessment of the impacts of varying model configurations on runtime and preformance *
 ### Notebooks - part 3 (first component of final project
-
+1. CNN.ipynb - * Contains implimentation of a CNN *
+2. FCN.ipynb - * Contains implimentation of a FCN *
+3. U-net.ipynb - * Contains implimentation of a U-net *
+4. Comparison.ipynb - * Presents CML results and compairs DL results, including runtime and preformance metrics *
 
 ## Data
 
