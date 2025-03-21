@@ -41,7 +41,8 @@ To run the notebooks included here:
 5. dimensionality_reduction/ - *contains independent and principal component results*
 6. target/ - *contains target PWT and T data in csv format*
 7. my_tuner_dir/ - *contains tuning results for DL models*
-### Notebooks - part 1 (first component of final project)
+8. results/ - *store metrics on model preformance, including time, MSE, r-squared, etc.)*
+### Notebooks - part 1 (first component of final project, working on data prep)
 1. Download_Data.ipynb - *Downloads data. Currently troublyshooting CDS API for ERA5 downloads*
 2. Clean_Data.ipynb - *Cleans data. This involves applying a land mask to the SST fields*
 3. Prepare_AI_Ready_Data.ipynb - *Prepares data for AI Use. This includes filtering for a subset in all dimensions (lat/lon/time). It also includes moving the varaibles into anomaly space by removing the annual monthly climatology*
@@ -51,7 +52,7 @@ To run the notebooks included here:
 1. AutoML_Hyperparameter_Tuning.ipynb - * A prelimiary approach, uses AutoML methods to quickly and efficently assess a range of model and parameter configurations *
 2. Model_Training_Assesment.ipynb - * Provides a more in-depth look at training a Linear Regression, Random Forest, and Huber Regression Model *
 3. Computational_Time_Analysis.ipynb - * Provides an assessment of the impacts of varying model configurations on runtime and preformance *
-### Notebooks - part 3 (first component of final project
+### Notebooks - part 3 (DL component of final project)
 1. CNN.ipynb - * Contains implimentation of a CNN *
 2. FCN.ipynb - * Contains implimentation of a FCN *
 3. U-net.ipynb - * Contains implimentation of a U-net *
